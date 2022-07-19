@@ -3,7 +3,7 @@
     "remote": "github",
     "repository":  "baibhab34/packages_apps_Gcam",
     "target_path": "packages/apps/Gcam",
-    "branch": "lmc"
+    "branch": "main"
   },
   {
     "remote": "github",
@@ -28,23 +28,5 @@
     "remote": "github",
     "target_path": "kernel/realme/sdm660",
     "branch": "wip"
-  },
-  {
-    "remote": "github",
-    "repository": "ArrowOS/android_hardware_qcom_display",
-    "branch": "arrow-12.1-caf-msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/display"
-  },
-  {
-    "remote": "github",
-    "repository": "ArrowOS/android_hardware_qcom_media",
-    "branch": "arrow-12.1-caf-msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/media"
-  },
-  {
-    "remote": "github",
-    "repository": "ArrowOS/android_hardware_qcom_audio",
-    "branch": "arrow-12.1-caf-msm8998",
-    "target_path": "hardware/qcom-caf/msm8998/audio"
   }
 ]
