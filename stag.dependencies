@@ -27,6 +27,6 @@
     "repository": "ArrowOS-Devices/android_kernel_realme_sdm660",
     "remote": "github",
     "target_path": "kernel/realme/sdm660",
-    "branch": "wip"
+    "branch": "arrow-13.0"
   }
 ]
